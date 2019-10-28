@@ -1,7 +1,7 @@
 # Open-Lab-02.05
 (5 XP) A function that checks if a number is divisible by 5.
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `Calculator.cs`.
 4. Implement the method `DivisibleByFive(int number)` that checks if a number is divisible by 5.
